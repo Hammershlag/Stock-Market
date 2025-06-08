@@ -1,6 +1,9 @@
 # Stock-Market
 Stock Market Prediction &amp; Trading Bot using AI
 
+**NOTE: Original code**
+
+## Original code is available at: https://github.com/crypto-code/Stock-Market
 
 **NOTE: AN IMPROVED VERSION OF THIS PROJECT WITH A WEB INTERFACE IS PRESENT [HERE](https://github.com/crypto-code/Stock-Market-AI-GUI)**
 
